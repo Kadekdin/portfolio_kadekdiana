@@ -388,19 +388,19 @@ const about: About = {
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/photo/KD-01.png",
+            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747235/KD-01_ddjag6.png",
             alt: "Project image",
             width: 16,
             height: 9,
           },
           {
-            src: "/images/projects/photo/KD-02.png",
+            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747235/KD-01_ddjag6.png",
             alt: "Project image",
             width: 16,
             height: 9,
           },
           {
-            src: "/images/projects/photo/KD-06.png",
+            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747249/KD-06_jbfwyo.png",
             alt: "Project image",
             width: 16,
             height: 9,

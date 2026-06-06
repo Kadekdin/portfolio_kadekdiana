@@ -224,18 +224,16 @@ const about: About = {
             <Text as="span" weight="strong">
               Program Studi Sistem Informasi{" "}
             </Text>
-            di Primakara University yang memiliki ketertarikan pada bidang teknologi, desain
-            digital, serta pengembangan media kreatif. Selama perkuliahan, saya
-            aktif mengembangkan kemampuan dalam{" "}
+            di Primakara University yang memiliki ketertarikan pada bidang
+            teknologi, desain digital, serta pengembangan media kreatif. Selama
+            perkuliahan, saya aktif mengembangkan kemampuan dalam{" "}
             <Text as="span" weight="strong">
-              desain UI/UX, graphic design, pengelolaan konten digital, dan 
+              desain UI/UX, graphic design, pengelolaan konten digital, dan
               dasar pemrograman untuk mendukung pengembangan solusi digital yang
               inovatif dan user-friendly.
             </Text>
-            
             <br />
             <br />
-
             Selain aktif dalam bidang akademik, saya juga terlibat dalam
             kegiatan organisasi dan kepanitiaan yang membantu meningkatkan
             kemampuan komunikasi, kerja sama tim, manajemen administrasi, serta
@@ -248,26 +246,30 @@ const about: About = {
       },
       {
         name: "SMA Kristen Harapan",
-        description: <>
-        Saya merupakan lulusan jurusan {" "} 
-        <Text as="span" weight="strong">
-          Ilmu Pengetahuan Alam (IPA) dari SMA Kristen Harapan{" "}
-        </Text> 
-        yang memiliki minat dalam{" "}
-        <Text as="span" weight="strong">
-        bidang teknologi, kreativitas, dan pengembangan kemampuan akademik maupun organisasi.{" "}
-        </Text> 
-        Selama menempuh pendidikan, saya aktif mengembangkan kemampuan berpikir analitis, 
-        pemecahan masalah, serta kerja sama tim melalui kegiatan akademik dan non-akademik.
-        
-        <br />
-        <br />
-
-        Selain fokus pada pembelajaran di bidang sains, saya juga memiliki ketertarikan pada desain digital dan 
-        teknologi yang menjadi dasar ketertarikan saya untuk melanjutkan pendidikan di bidang Sistem Informasi. 
-        Pengalaman selama masa sekolah membantu saya menjadi pribadi yang disiplin, adaptif, dan 
-        mampu bekerja secara bertanggung jawab dalam berbagai situasi maupun lingkungan kerja tim.
-        </>,
+        description: (
+          <>
+            Saya merupakan lulusan jurusan{" "}
+            <Text as="span" weight="strong">
+              Ilmu Pengetahuan Alam (IPA) dari SMA Kristen Harapan{" "}
+            </Text>
+            yang memiliki minat dalam{" "}
+            <Text as="span" weight="strong">
+              bidang teknologi, kreativitas, dan pengembangan kemampuan akademik
+              maupun organisasi.{" "}
+            </Text>
+            Selama menempuh pendidikan, saya aktif mengembangkan kemampuan
+            berpikir analitis, pemecahan masalah, serta kerja sama tim melalui
+            kegiatan akademik dan non-akademik.
+            <br />
+            <br />
+            Selain fokus pada pembelajaran di bidang sains, saya juga memiliki
+            ketertarikan pada desain digital dan teknologi yang menjadi dasar
+            ketertarikan saya untuk melanjutkan pendidikan di bidang Sistem
+            Informasi. Pengalaman selama masa sekolah membantu saya menjadi
+            pribadi yang disiplin, adaptif, dan mampu bekerja secara bertanggung
+            jawab dalam berbagai situasi maupun lingkungan kerja tim.
+          </>
+        ),
       },
     ],
   },
@@ -279,10 +281,12 @@ const about: About = {
         title: "Graphic Design",
         description: (
           <>
-          Memiliki kemampuan dalam merancang visual untuk kebutuhan konten digital dan media promosi, 
-          termasuk pembuatan poster, feed media sosial, dan materi branding. Menguasai prinsip desain seperti 
-          layout, typography, color theory, dan visual hierarchy untuk menghasilkan desain yang komunikatif, 
-          menarik, dan sesuai dengan identitas brand.
+            Memiliki kemampuan dalam merancang visual untuk kebutuhan konten
+            digital dan media promosi, termasuk pembuatan poster, feed media
+            sosial, dan materi branding. Menguasai prinsip desain seperti
+            layout, typography, color theory, dan visual hierarchy untuk
+            menghasilkan desain yang komunikatif, menarik, dan sesuai dengan
+            identitas brand.
           </>
         ),
         tags: [
@@ -304,7 +308,8 @@ const about: About = {
           },
         ],
         // optional: leave the array empty if you don't want to display images
-        images: [ //ubah gambar
+        images: [
+          //ubah gambar
           // {
           //   src: "/images/projects/project-01/cover-02.jpg",
           //   alt: "Project image",
@@ -323,10 +328,12 @@ const about: About = {
         title: "UI/UX Designer",
         description: (
           <>
-          Memiliki kemampuan dalam merancang pengalaman pengguna (UX) dan antarmuka pengguna (UI) untuk aplikasi 
-          maupun website yang berfokus pada kemudahan penggunaan dan kenyamanan pengguna. Menguasai proses desain 
-          mulai dari user research, pembuatan user flow, wireframe, hingga high-fidelity design serta prototyping 
-          interaktif menggunakan tools desain.
+            Memiliki kemampuan dalam merancang pengalaman pengguna (UX) dan
+            antarmuka pengguna (UI) untuk aplikasi maupun website yang berfokus
+            pada kemudahan penggunaan dan kenyamanan pengguna. Menguasai proses
+            desain mulai dari user research, pembuatan user flow, wireframe,
+            hingga high-fidelity design serta prototyping interaktif menggunakan
+            tools desain.
           </>
         ),
         tags: [
@@ -336,7 +343,8 @@ const about: About = {
           },
         ],
         // optional: leave the array empty if you don't want to display images
-        images: [ //ubah gambar
+        images: [
+          //ubah gambar
           // {
           //   src: "/images/projects/project-01/cover-02.jpg",
           //   alt: "Project image",
@@ -355,10 +363,12 @@ const about: About = {
         title: "Photography & Photo Editing",
         description: (
           <>
-          Memiliki kemampuan dalam pengambilan foto untuk kebutuhan dokumentasi, konten media sosial, 
-          maupun publikasi visual dengan memperhatikan komposisi, pencahayaan, dan sudut pengambilan gambar. 
-          Selain itu, mampu melakukan proses editing foto untuk meningkatkan kualitas visual, menyesuaikan warna, 
-          serta menghasilkan tampilan yang lebih menarik dan profesional sesuai kebutuhan konten digital.
+            Memiliki kemampuan dalam pengambilan foto untuk kebutuhan
+            dokumentasi, konten media sosial, maupun publikasi visual dengan
+            memperhatikan komposisi, pencahayaan, dan sudut pengambilan gambar.
+            Selain itu, mampu melakukan proses editing foto untuk meningkatkan
+            kualitas visual, menyesuaikan warna, serta menghasilkan tampilan
+            yang lebih menarik dan profesional sesuai kebutuhan konten digital.
           </>
         ),
         tags: [
@@ -401,10 +411,13 @@ const about: About = {
         title: "Videography & Video Editing",
         description: (
           <>
-          Memiliki kemampuan dalam proses produksi video mulai dari pengambilan gambar, pengaturan angle, 
-          pencahayaan, hingga penyusunan visual untuk kebutuhan konten digital dan dokumentasi kegiatan. 
-          Selain itu, mampu melakukan editing video dengan mengatur transisi, audio, color grading, serta 
-          penyusunan alur video agar menghasilkan konten yang menarik, informatif sesuai dengan identitas visual yang diinginkan.
+            Memiliki kemampuan dalam proses produksi video mulai dari
+            pengambilan gambar, pengaturan angle, pencahayaan, hingga penyusunan
+            visual untuk kebutuhan konten digital dan dokumentasi kegiatan.
+            Selain itu, mampu melakukan editing video dengan mengatur transisi,
+            audio, color grading, serta penyusunan alur video agar menghasilkan
+            konten yang menarik, informatif sesuai dengan identitas visual yang
+            diinginkan.
           </>
         ),
         tags: [
@@ -420,13 +433,13 @@ const about: About = {
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/vid/VID-01.mp4",
+            src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712103/VD-01_gvqfc1.mp4",
             alt: "Project image",
             width: 9,
             height: 16,
           },
           {
-            src: "/images/projects/vid/VID-02.mp4",
+            src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712305/VD-04_y6vsmp.mp4",
             alt: "Project image",
             width: 9,
             height: 16,

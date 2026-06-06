@@ -15,7 +15,7 @@ const person: Person = {
   firstName: "Kadek Diana Angelika",
   lastName: "Prasanti",
   name: `Kadek Diana Angelika Prasanti`,
-  role: "Graphic Designer",
+  role: "Graphic Designer | UI/UX Designer",
   avatar: "/images/avt.JPG",
   email: "dianaprasnti@gmail.com",
   location: "Asia/Makassar", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -387,24 +387,24 @@ const about: About = {
         ],
         // optional: leave the array empty if you don't want to display images
         images: [
-          {
-            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747235/KD-01_ddjag6.png",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747235/KD-01_ddjag6.png",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747249/KD-06_jbfwyo.png",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
+          // {
+          //   src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747235/KD-01_ddjag6.png",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
+          // {
+          //   src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747266/KD-08_msuo6l.png",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
+          // {
+          //   src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780747249/KD-06_jbfwyo.png",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
         ],
       },
       {
@@ -432,18 +432,18 @@ const about: About = {
         ],
         // optional: leave the array empty if you don't want to display images
         images: [
-          {
-            src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712103/VD-01_gvqfc1.mp4",
-            alt: "Project image",
-            width: 9,
-            height: 16,
-          },
-          {
-            src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712305/VD-04_y6vsmp.mp4",
-            alt: "Project image",
-            width: 9,
-            height: 16,
-          },
+          // {
+          //   src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712103/VD-01_gvqfc1.mp4",
+          //   alt: "Project image",
+          //   width: 9,
+          //   height: 16,
+          // },
+          // {
+          //   src: "https://res.cloudinary.com/dz8qawncf/video/upload/v1780712305/VD-04_y6vsmp.mp4",
+          //   alt: "Project image",
+          //   width: 9,
+          //   height: 16,
+          // },
         ],
       },
     ],

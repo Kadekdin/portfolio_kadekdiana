@@ -542,7 +542,7 @@ const gallery: Gallery = {
       orientation: "square",
     },
     {
-      src: "/images/gallery/SD-02.png",
+      src: "/images/gallery/SD-02.webp",
       alt: "image",
       orientation: "portrait",
     },
@@ -572,12 +572,12 @@ const gallery: Gallery = {
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/SG-02.png",
+      src: "/images/gallery/SG-02.webp",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/SG-03.png",
+      src: "/images/gallery/SG-03.webp",
       alt: "image",
       orientation: "vertical",
     },
@@ -587,7 +587,7 @@ const gallery: Gallery = {
       orientation: "portrait",
     },
     {
-      src: "/images/gallery/SD-07.png",
+      src: "/images/gallery/SD-07.webp",
       alt: "image",
       orientation: "portrait",
     },

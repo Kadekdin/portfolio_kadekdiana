@@ -70,7 +70,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Hi, saya Kadek Diana Angelika Prasanti</>,
+  headline: <>Hi, I'm Kadek Diana Angelika Prasanti</>,
   featured: {
     display: false,
     title: (
@@ -86,15 +86,12 @@ const home: Home = {
   },
   subline: (
     <>
-      seorang mahasiswi Sistem Informasi di Primakara University yang memiliki
-      minat di bidang{" "}
+      an Information Systems student at Primakara University who is passionate about design, technology, and creative media.{" "}
       <Text as="span" size="xl" weight="strong">
-        desain grafis, UI/UX, serta photography dan videography.{" "}
+        With experience in Graphic Design, UI/UX Design, Photography, and Videography,{" "}
       </Text>
-      Saya lahir di Tabanan, 03 November 2004 dan saat ini aktif mengembangkan
-      kemampuan di bidang desain visual, pengelolaan media digital, serta
-      organisasi untuk mendukung kreativitas dan profesionalisme dalam dunia
-      kerja maupun akademik.
+      I have contributed to a variety of organizational, academic, and professional projects. I am driven by creativity and 
+      enjoy turning ideas into impactful visual experiences that combine aesthetics with effective communication.
     </>
   ),
 };
@@ -120,84 +117,71 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Hallo semuanya✨
+        Hello everyone✨
         <br />
-        Kenalin, nama aku Kadek Diana Angelika Prasanti biasa dipanggil Kedin.
-        Aku mahasiswi dari jurusan Sistem Informasi di Primakara University. Aku
-        bercita-cita menjadi pengusaha yang sukses. Tapi, selain itu aku punya
-        ketertarikan di dunia photography, videography dan juga desain visual.
+        My name is Kadek Diana Angelika Prasanti, commonly known as Kedin. I am currently pursuing a degree in Information Systems at Primakara University. 
+        I aspire to become a successful entrepreneur while also pursuing my passion for photography, videography, and visual design. Through these creative fields, 
+        I enjoy expressing ideas, telling stories, and creating meaningful visual experiences.
       </>
     ),
   },
   work: {
     display: true, // set to false to hide this section
-    title: "Pengalaman",
+    title: "Experiences",
     experiences: [
       {
         company: "Dewan Perwakilan Mahasiswa (DPM) 2026",
-        timeframe: "Januari 2026 - Sekarang",
+        timeframe: "January 2026 - Present",
         role: "Staff II Komunikasi, Riset & Pendidikan",
         achievements: [
           <Fragment key="achievement-1">
-            Membuat desain visual untuk kebutuhan media sosial dan publikasi
-            organisasi guna meningkatkan penyampaian informasi kepada mahasiswa
-            secara menarik dan informatif.
+            Created visual designs for social media content and organizational publications to enhance the delivery of information 
+            to students in an engaging and informative manner.
           </Fragment>,
           <Fragment key="achievement-2">
-            Menyusun caption dan konten komunikasi yang sesuai dengan identitas
-            organisasi untuk mendukung branding serta interaksi audiens di media
-            sosial.
+            Developed captions and communication content aligned with the organization's identity to support branding efforts 
+            and enhance audience engagement across social media platforms.
           </Fragment>,
           <Fragment key="achievement-3">
-            Melakukan dokumentasi kegiatan organisasi dalam bentuk foto dan
-            video sebagai bahan publikasi serta arsip kegiatan organisasi.
+            Documented organizational activities through photography and videography for publication purposes and organizational archives.
           </Fragment>,
           <Fragment key="achievement-4">
-            Mendukung pengelolaan media publikasi organisasi melalui penyebaran
-            informasi kegiatan, program kerja, dan edukasi mahasiswa secara
-            efektif.
+            Supported the management of the organization's publication media by effectively disseminating information about activities, 
+            work programs, and student educational content.
           </Fragment>,
           <Fragment key="achievement-5">
-            Berkontribusi dalam pelaksanaan fungsi komunikasi, riset, dan
-            pendidikan melalui pembuatan konten kreatif yang mendukung
-            pengembangan wawasan mahasiswa.
+            Contributed to communication, research, and educational initiatives through the creation of creative content that supported the development 
+            of students' knowledge and perspectives.
           </Fragment>,
           <Fragment key="achievement-6">
-            Berkolaborasi dengan anggota divisi dan pengurus organisasi dalam
-            mendukung kelancaran kegiatan serta publikasi program kerja
-            organisasi.
+            Collaborated with division members and organizational executives to support the smooth implementation of activities and 
+            the publication of organizational programs.
           </Fragment>,
         ],
         images: [],
       },
       {
         company: "Djoin",
-        timeframe: "Januari 2026 - Mei 2026",
+        timeframe: "January 2026 - May 2026",
         role: "Creative Design & Videography Intern",
         achievements: [
           <Fragment key="achievement-1">
-            Merancang dan mengembangkan desain visual untuk konten Instagram,
-            TikTok, dan LinkedIn guna meningkatkan konsistensi branding serta
-            engagement media sosial perusahaan.
+            Created visual designs for Instagram,
+            TikTok, and LinkedIn content to enhance branding consistency and
+            social media engagement.
           </Fragment>,
           <Fragment key="achievement-2">
-            Mendesain berbagai media promosi seperti brosur dan materi publikasi
-            lainnya untuk mendukung kebutuhan pemasaran dan komunikasi
-            perusahaan.
+            Designed promotional materials, including brochures and other publication media, to support the company's marketing and communication needs.
           </Fragment>,
           <Fragment key="achievement-3">
-            Melakukan proses pengambilan foto dan video untuk kebutuhan konten
-            digital serta dokumentasi kegiatan perusahaan secara profesional.
+            Conducted photo and video shoots for digital content creation and professional documentation of company activities.
           </Fragment>,
           <Fragment key="achievement-4">
-            Mengedit video dan mengelola hasil produksi visual agar menghasilkan
-            konten yang menarik, informatif, dan sesuai dengan identitas
-            perusahaan.
+            Edited videos and managed visual production assets to create engaging, informative content that aligned with the company's brand identity.
           </Fragment>,
           <Fragment key="achievement-5">
-            Berkolaborasi dengan tim dalam pengembangan konsep konten kreatif
-            untuk meningkatkan kualitas publikasi dan daya tarik audiens di
-            media digital.
+            Collaborated with team members to develop creative content concepts aimed at improving the quality of publications and 
+            increasing audience engagement across digital media platforms.
           </Fragment>,
         ],
         images: [
@@ -214,60 +198,49 @@ const about: About = {
   },
   studies: {
     display: true, // set to false to hide this section
-    title: "Pendidikan",
+    title: "Education",
     institutions: [
       {
         name: "Primakara University",
         description: (
           <>
-            Saya merupakan mahasiswi{" "}
+            I am an{" "}
             <Text as="span" weight="strong">
-              Program Studi Sistem Informasi{" "}
+              Information Systems student{" "}
             </Text>
-            di Primakara University yang memiliki ketertarikan pada bidang
-            teknologi, desain digital, serta pengembangan media kreatif. Selama
-            perkuliahan, saya aktif mengembangkan kemampuan dalam{" "}
+            at Primakara University with a strong interest in technology, digital design, and 
+            creative media development. Throughout my academic journey, I have actively developed skills in{" "}
             <Text as="span" weight="strong">
-              desain UI/UX, graphic design, pengelolaan konten digital, dan
-              dasar pemrograman untuk mendukung pengembangan solusi digital yang
-              inovatif dan user-friendly.
+              UI/UX design, graphic design, digital content management, and programming fundamentals to 
+              support the creation of innovative and user-friendly digital solutions.
             </Text>
             <br />
             <br />
-            Selain aktif dalam bidang akademik, saya juga terlibat dalam
-            kegiatan organisasi dan kepanitiaan yang membantu meningkatkan
-            kemampuan komunikasi, kerja sama tim, manajemen administrasi, serta
-            problem solving. Saya memiliki semangat belajar yang tinggi, mampu
-            beradaptasi dengan lingkungan kerja yang dinamis, dan terbiasa
-            bekerja secara kreatif maupun terstruktur dalam menyelesaikan
-            berbagai proyek dan tanggung jawab.
+            In addition to my academic activities, I have been actively involved in various organizational and committee activities, 
+            which have helped me strengthen my communication, teamwork, administrative management, and problem-solving skills. 
+            I am a highly motivated learner who adapts well to dynamic work environments and is capable of working both creatively and 
+            systematically to accomplish projects and responsibilities effectively.
           </>
         ),
       },
       {
-        name: "SMA Kristen Harapan",
+        name: "Harapan Christian Senior High School",
         description: (
           <>
-            Saya merupakan lulusan jurusan{" "}
+            I am a graduate of the{" "}
             <Text as="span" weight="strong">
-              Ilmu Pengetahuan Alam (IPA) dari SMA Kristen Harapan{" "}
+              Natural Sciences (Science) program at Harapan Christian Senior High School{" "}
             </Text>
-            yang memiliki minat dalam{" "}
+            with a strong interest in{" "}
             <Text as="span" weight="strong">
-              bidang teknologi, kreativitas, dan pengembangan kemampuan akademik
-              maupun organisasi.{" "}
+              technology, creativity, and the development of both academic and organizational skills.{" "}
             </Text>
-            Selama menempuh pendidikan, saya aktif mengembangkan kemampuan
-            berpikir analitis, pemecahan masalah, serta kerja sama tim melalui
-            kegiatan akademik dan non-akademik.
+            Throughout my studies, I actively developed analytical thinking, problem-solving, and teamwork abilities through various academic and extracurricular activities.
             <br />
             <br />
-            Selain fokus pada pembelajaran di bidang sains, saya juga memiliki
-            ketertarikan pada desain digital dan teknologi yang menjadi dasar
-            ketertarikan saya untuk melanjutkan pendidikan di bidang Sistem
-            Informasi. Pengalaman selama masa sekolah membantu saya menjadi
-            pribadi yang disiplin, adaptif, dan mampu bekerja secara bertanggung
-            jawab dalam berbagai situasi maupun lingkungan kerja tim.
+            In addition to focusing on science-related subjects, I developed a strong interest in digital design and technology, which inspired me to pursue higher education 
+            in the field of Information Systems. My experiences during high school helped shape me into a disciplined, adaptable, and responsible individual who can work 
+            effectively in diverse situations and collaborative environments.
           </>
         ),
       },
@@ -281,12 +254,9 @@ const about: About = {
         title: "Graphic Design",
         description: (
           <>
-            Memiliki kemampuan dalam merancang visual untuk kebutuhan konten
-            digital dan media promosi, termasuk pembuatan poster, feed media
-            sosial, dan materi branding. Menguasai prinsip desain seperti
-            layout, typography, color theory, dan visual hierarchy untuk
-            menghasilkan desain yang komunikatif, menarik, dan sesuai dengan
-            identitas brand.
+            Experienced in designing visual assets for digital content, marketing campaigns, and brand communication, including posters, 
+            social media graphics, and branding materials. Strong understanding of design fundamentals such as layout composition, typography, 
+            color theory, and visual hierarchy, enabling the creation of engaging, impactful, and strategically aligned visual solutions.
           </>
         ),
         tags: [
@@ -328,12 +298,9 @@ const about: About = {
         title: "UI/UX Designer",
         description: (
           <>
-            Memiliki kemampuan dalam merancang pengalaman pengguna (UX) dan
-            antarmuka pengguna (UI) untuk aplikasi maupun website yang berfokus
-            pada kemudahan penggunaan dan kenyamanan pengguna. Menguasai proses
-            desain mulai dari user research, pembuatan user flow, wireframe,
-            hingga high-fidelity design serta prototyping interaktif menggunakan
-            tools desain.
+            Skilled in designing user experiences (UX) and user interfaces (UI) for web and mobile applications with a focus on usability and user satisfaction. 
+            Proficient in the end-to-end design process, including user research, user flow creation, wireframing, high-fidelity design, and 
+            interactive prototyping using design tools.
           </>
         ),
         tags: [
@@ -363,12 +330,9 @@ const about: About = {
         title: "Photography & Photo Editing",
         description: (
           <>
-            Memiliki kemampuan dalam pengambilan foto untuk kebutuhan
-            dokumentasi, konten media sosial, maupun publikasi visual dengan
-            memperhatikan komposisi, pencahayaan, dan sudut pengambilan gambar.
-            Selain itu, mampu melakukan proses editing foto untuk meningkatkan
-            kualitas visual, menyesuaikan warna, serta menghasilkan tampilan
-            yang lebih menarik dan profesional sesuai kebutuhan konten digital.
+            Skilled in photography for documentation, social media content, and visual publications, with a strong understanding of composition, lighting, and 
+            camera angles. Capable of performing photo editing to enhance image quality, adjust colors, and create visually appealing and professional results tailored 
+            to digital content needs.
           </>
         ),
         tags: [
@@ -411,13 +375,9 @@ const about: About = {
         title: "Videography & Video Editing",
         description: (
           <>
-            Memiliki kemampuan dalam proses produksi video mulai dari
-            pengambilan gambar, pengaturan angle, pencahayaan, hingga penyusunan
-            visual untuk kebutuhan konten digital dan dokumentasi kegiatan.
-            Selain itu, mampu melakukan editing video dengan mengatur transisi,
-            audio, color grading, serta penyusunan alur video agar menghasilkan
-            konten yang menarik, informatif sesuai dengan identitas visual yang
-            diinginkan.
+            Skilled in video production, including filming, shot composition, camera angle selection, lighting setup, and visual arrangement for 
+            digital content and event documentation. Proficient in video editing, including transition management, audio enhancement, color grading, and 
+            video sequencing to create engaging, informative, and visually consistent content.
           </>
         ),
         tags: [
@@ -453,7 +413,7 @@ const about: About = {
 const blog: Blog = {
   path: "/blog",
   label: "Blog",
-  title: "Hasil Desain, Photography dan Videography",
+  title: "Design, Photography, and Videography Portfolio",
   description: `Read what ${person.name} has been up to recently`,
   // Create new blog posts by adding a new .mdx file to app/blog/posts
   // All posts will be listed on the /blog route

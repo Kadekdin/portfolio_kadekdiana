@@ -86,12 +86,16 @@ const home: Home = {
   },
   subline: (
     <>
-      an Information Systems student at Primakara University who is passionate about design, technology, and creative media.{" "}
+      an Information Systems student at Primakara University who is passionate
+      about design, technology, and creative media.{" "}
       <Text as="span" size="xl" weight="strong">
-        With experience in Graphic Design, UI/UX Design, Photography, and Videography,{" "}
+        With experience in Graphic Design, UI/UX Design, Photography, and
+        Videography,{" "}
       </Text>
-      I have contributed to a variety of organizational, academic, and professional projects. I am driven by creativity and 
-      enjoy turning ideas into impactful visual experiences that combine aesthetics with effective communication.
+      I have contributed to a variety of organizational, academic, and
+      professional projects. I am driven by creativity and enjoy turning ideas
+      into impactful visual experiences that combine aesthetics with effective
+      communication.
     </>
   ),
 };
@@ -119,9 +123,12 @@ const about: About = {
       <>
         Hello everyone✨
         <br />
-        My name is Kadek Diana Angelika Prasanti, commonly known as Kedin. I am currently pursuing a degree in Information Systems at Primakara University. 
-        I aspire to become a successful entrepreneur while also pursuing my passion for photography, videography, and visual design. Through these creative fields, 
-        I enjoy expressing ideas, telling stories, and creating meaningful visual experiences.
+        My name is Kadek Diana Angelika Prasanti, commonly known as Kedin. I am
+        currently pursuing a degree in Information Systems at Primakara
+        University. I aspire to become a successful entrepreneur while also
+        pursuing my passion for photography, videography, and visual design.
+        Through these creative fields, I enjoy expressing ideas, telling
+        stories, and creating meaningful visual experiences.
       </>
     ),
   },
@@ -135,27 +142,33 @@ const about: About = {
         role: "Staff II Komunikasi, Riset & Pendidikan",
         achievements: [
           <Fragment key="achievement-1">
-            Created visual designs for social media content and organizational publications to enhance the delivery of information 
-            to students in an engaging and informative manner.
+            Created visual designs for social media content and organizational
+            publications to enhance the delivery of information to students in
+            an engaging and informative manner.
           </Fragment>,
           <Fragment key="achievement-2">
-            Developed captions and communication content aligned with the organization's identity to support branding efforts 
-            and enhance audience engagement across social media platforms.
+            Developed captions and communication content aligned with the
+            organization's identity to support branding efforts and enhance
+            audience engagement across social media platforms.
           </Fragment>,
           <Fragment key="achievement-3">
-            Documented organizational activities through photography and videography for publication purposes and organizational archives.
+            Documented organizational activities through photography and
+            videography for publication purposes and organizational archives.
           </Fragment>,
           <Fragment key="achievement-4">
-            Supported the management of the organization's publication media by effectively disseminating information about activities, 
-            work programs, and student educational content.
+            Supported the management of the organization's publication media by
+            effectively disseminating information about activities, work
+            programs, and student educational content.
           </Fragment>,
           <Fragment key="achievement-5">
-            Contributed to communication, research, and educational initiatives through the creation of creative content that supported the development 
-            of students' knowledge and perspectives.
+            Contributed to communication, research, and educational initiatives
+            through the creation of creative content that supported the
+            development of students' knowledge and perspectives.
           </Fragment>,
           <Fragment key="achievement-6">
-            Collaborated with division members and organizational executives to support the smooth implementation of activities and 
-            the publication of organizational programs.
+            Collaborated with division members and organizational executives to
+            support the smooth implementation of activities and the publication
+            of organizational programs.
           </Fragment>,
         ],
         images: [],
@@ -166,22 +179,27 @@ const about: About = {
         role: "Creative Design & Videography Intern",
         achievements: [
           <Fragment key="achievement-1">
-            Created visual designs for Instagram,
-            TikTok, and LinkedIn content to enhance branding consistency and
-            social media engagement.
+            Created visual designs for Instagram, TikTok, and LinkedIn content
+            to enhance branding consistency and social media engagement.
           </Fragment>,
           <Fragment key="achievement-2">
-            Designed promotional materials, including brochures and other publication media, to support the company's marketing and communication needs.
+            Designed promotional materials, including brochures and other
+            publication media, to support the company's marketing and
+            communication needs.
           </Fragment>,
           <Fragment key="achievement-3">
-            Conducted photo and video shoots for digital content creation and professional documentation of company activities.
+            Conducted photo and video shoots for digital content creation and
+            professional documentation of company activities.
           </Fragment>,
           <Fragment key="achievement-4">
-            Edited videos and managed visual production assets to create engaging, informative content that aligned with the company's brand identity.
+            Edited videos and managed visual production assets to create
+            engaging, informative content that aligned with the company's brand
+            identity.
           </Fragment>,
           <Fragment key="achievement-5">
-            Collaborated with team members to develop creative content concepts aimed at improving the quality of publications and 
-            increasing audience engagement across digital media platforms.
+            Collaborated with team members to develop creative content concepts
+            aimed at improving the quality of publications and increasing
+            audience engagement across digital media platforms.
           </Fragment>,
         ],
         images: [
@@ -208,18 +226,23 @@ const about: About = {
             <Text as="span" weight="strong">
               Information Systems student{" "}
             </Text>
-            at Primakara University with a strong interest in technology, digital design, and 
-            creative media development. Throughout my academic journey, I have actively developed skills in{" "}
+            at Primakara University with a strong interest in technology,
+            digital design, and creative media development. Throughout my
+            academic journey, I have actively developed skills in{" "}
             <Text as="span" weight="strong">
-              UI/UX design, graphic design, digital content management, and programming fundamentals to 
-              support the creation of innovative and user-friendly digital solutions.
+              UI/UX design, graphic design, digital content management, and
+              programming fundamentals to support the creation of innovative and
+              user-friendly digital solutions.
             </Text>
             <br />
             <br />
-            In addition to my academic activities, I have been actively involved in various organizational and committee activities, 
-            which have helped me strengthen my communication, teamwork, administrative management, and problem-solving skills. 
-            I am a highly motivated learner who adapts well to dynamic work environments and is capable of working both creatively and 
-            systematically to accomplish projects and responsibilities effectively.
+            In addition to my academic activities, I have been actively involved
+            in various organizational and committee activities, which have
+            helped me strengthen my communication, teamwork, administrative
+            management, and problem-solving skills. I am a highly motivated
+            learner who adapts well to dynamic work environments and is capable
+            of working both creatively and systematically to accomplish projects
+            and responsibilities effectively.
           </>
         ),
       },
@@ -229,18 +252,25 @@ const about: About = {
           <>
             I am a graduate of the{" "}
             <Text as="span" weight="strong">
-              Natural Sciences (Science) program at Harapan Christian Senior High School{" "}
+              Natural Sciences (Science) program at Harapan Christian Senior
+              High School{" "}
             </Text>
             with a strong interest in{" "}
             <Text as="span" weight="strong">
-              technology, creativity, and the development of both academic and organizational skills.{" "}
+              technology, creativity, and the development of both academic and
+              organizational skills.{" "}
             </Text>
-            Throughout my studies, I actively developed analytical thinking, problem-solving, and teamwork abilities through various academic and extracurricular activities.
+            Throughout my studies, I actively developed analytical thinking,
+            problem-solving, and teamwork abilities through various academic and
+            extracurricular activities.
             <br />
             <br />
-            In addition to focusing on science-related subjects, I developed a strong interest in digital design and technology, which inspired me to pursue higher education 
-            in the field of Information Systems. My experiences during high school helped shape me into a disciplined, adaptable, and responsible individual who can work 
-            effectively in diverse situations and collaborative environments.
+            In addition to focusing on science-related subjects, I developed a
+            strong interest in digital design and technology, which inspired me
+            to pursue higher education in the field of Information Systems. My
+            experiences during high school helped shape me into a disciplined,
+            adaptable, and responsible individual who can work effectively in
+            diverse situations and collaborative environments.
           </>
         ),
       },
@@ -254,9 +284,12 @@ const about: About = {
         title: "Graphic Design",
         description: (
           <>
-            Experienced in designing visual assets for digital content, marketing campaigns, and brand communication, including posters, 
-            social media graphics, and branding materials. Strong understanding of design fundamentals such as layout composition, typography, 
-            color theory, and visual hierarchy, enabling the creation of engaging, impactful, and strategically aligned visual solutions.
+            Experienced in designing visual assets for digital content,
+            marketing campaigns, and brand communication, including posters,
+            social media graphics, and branding materials. Strong understanding
+            of design fundamentals such as layout composition, typography, color
+            theory, and visual hierarchy, enabling the creation of engaging,
+            impactful, and strategically aligned visual solutions.
           </>
         ),
         tags: [
@@ -298,9 +331,11 @@ const about: About = {
         title: "UI/UX Designer",
         description: (
           <>
-            Skilled in designing user experiences (UX) and user interfaces (UI) for web and mobile applications with a focus on usability and user satisfaction. 
-            Proficient in the end-to-end design process, including user research, user flow creation, wireframing, high-fidelity design, and 
-            interactive prototyping using design tools.
+            Skilled in designing user experiences (UX) and user interfaces (UI)
+            for web and mobile applications with a focus on usability and user
+            satisfaction. Proficient in the end-to-end design process, including
+            user research, user flow creation, wireframing, high-fidelity
+            design, and interactive prototyping using design tools.
           </>
         ),
         tags: [
@@ -330,9 +365,11 @@ const about: About = {
         title: "Photography & Photo Editing",
         description: (
           <>
-            Skilled in photography for documentation, social media content, and visual publications, with a strong understanding of composition, lighting, and 
-            camera angles. Capable of performing photo editing to enhance image quality, adjust colors, and create visually appealing and professional results tailored 
-            to digital content needs.
+            Skilled in photography for documentation, social media content, and
+            visual publications, with a strong understanding of composition,
+            lighting, and camera angles. Capable of performing photo editing to
+            enhance image quality, adjust colors, and create visually appealing
+            and professional results tailored to digital content needs.
           </>
         ),
         tags: [
@@ -375,9 +412,12 @@ const about: About = {
         title: "Videography & Video Editing",
         description: (
           <>
-            Skilled in video production, including filming, shot composition, camera angle selection, lighting setup, and visual arrangement for 
-            digital content and event documentation. Proficient in video editing, including transition management, audio enhancement, color grading, and 
-            video sequencing to create engaging, informative, and visually consistent content.
+            Skilled in video production, including filming, shot composition,
+            camera angle selection, lighting setup, and visual arrangement for
+            digital content and event documentation. Proficient in video
+            editing, including transition management, audio enhancement, color
+            grading, and video sequencing to create engaging, informative, and
+            visually consistent content.
           </>
         ),
         tags: [
@@ -442,7 +482,7 @@ const gallery: Gallery = {
       orientation: "horizontal",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524852/KD-01_nl51yg.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526525/KD-01_girmno.png",
       alt: "image",
       orientation: "horizontal",
     },
@@ -452,17 +492,17 @@ const gallery: Gallery = {
       orientation: "horizontal",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-02_fnvarx.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526520/KD-02_dtevde.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-03_fgqgqk.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526525/KD-03_coaem6.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524853/KD-05_rc26cg.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526529/KD-05_lrtsu7.png",
       alt: "image",
       orientation: "horizontal",
     },
@@ -522,12 +562,12 @@ const gallery: Gallery = {
       orientation: "portrait",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-06_sf4yuf.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526526/KD-06_dqiwgt.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524852/SG-01_arbr8u.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781526510/SG-01_gmk70q.png",
       alt: "image",
       orientation: "vertical",
     },

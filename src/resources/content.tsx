@@ -442,7 +442,7 @@ const gallery: Gallery = {
       orientation: "horizontal",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750219/KD-01_atbydw.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524852/KD-01_nl51yg.png",
       alt: "image",
       orientation: "horizontal",
     },
@@ -452,17 +452,17 @@ const gallery: Gallery = {
       orientation: "horizontal",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750223/KD-02_mxfgs6.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-02_fnvarx.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750229/KD-03_eizg26.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-03_fgqgqk.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750241/KD-05_vy5vxz.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524853/KD-05_rc26cg.png",
       alt: "image",
       orientation: "horizontal",
     },
@@ -477,12 +477,12 @@ const gallery: Gallery = {
       orientation: "square",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750340/WB-01_qv8jd9.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524465/WB-01_vqrvog.png",
       alt: "image",
       orientation: "square",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750255/P-02_bke22z.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524465/P-02_bq3hlh.png",
       alt: "image",
       orientation: "portrait",
     },
@@ -502,7 +502,7 @@ const gallery: Gallery = {
       orientation: "square",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750264/SD-02_knxroz.webp",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524485/SD-02_hvhyit.png",
       alt: "image",
       orientation: "portrait",
     },
@@ -512,7 +512,7 @@ const gallery: Gallery = {
       orientation: "portrait",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750273/SD-04_fdzpca.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524465/SD-04_uq4s63.png",
       alt: "image",
       orientation: "portrait",
     },
@@ -522,22 +522,22 @@ const gallery: Gallery = {
       orientation: "portrait",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750248/KD-06_spnszk.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524850/KD-06_sf4yuf.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750303/SG-01_j7wtqr.png",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524852/SG-01_arbr8u.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750315/SG-02_hyivuf.webp",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524485/SG-02_gzpndz.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750327/SG-03_h6mxxu.webp",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524488/SG-03_wi5mby.png",
       alt: "image",
       orientation: "vertical",
     },
@@ -547,7 +547,7 @@ const gallery: Gallery = {
       orientation: "portrait",
     },
     {
-      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1780750285/SD-07_dh370j.webp",
+      src: "https://res.cloudinary.com/dz8qawncf/image/upload/v1781524487/SD-07_nxdwx2.png",
       alt: "image",
       orientation: "portrait",
     },

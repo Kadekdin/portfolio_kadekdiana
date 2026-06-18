@@ -107,7 +107,7 @@ export default function Home() {
 
               <Button
                 data-border="rounded"
-                href="/files/pake-contoh.pdf" //tinggal ganti nama file pake CV_Kadek_Diana_Angelika_Prasanti.pdf
+                href="/files/CV-GRAPHICDSG-KEDIN.pdf" //tinggal ganti nama file pake CV_Kadek_Diana_Angelika_Prasanti.pdf
                 target="_blank"
                 variant="primary"
                 size="m"
